@@ -1,8 +1,8 @@
 # The Asymmetric Alliance: A Forensic Audit of the Global Vendor-State
 
 **Status:** Active / Rolling Assessment  
-**Version:** v3 (International Layer)  
-**Last Updated:** December 7, 2025  
+**Version:** v4 (International Layer)  
+**Last Updated:** December 10, 2025  
 
 ---
 
@@ -54,6 +54,36 @@ This repository contains a multi-layer intelligence assessment documenting struc
 └── sources/
     └── GlobalFoundries_UAE_Audit.pdf  # Primary source verification
 ```
+
+---
+
+### Phase 0 – Genesis (2008–2009)
+**The "Cleared Path" Hypothesis: How the Global Financial Crisis Outsourced U.S. National Security**
+
+| Date | Event | Strategic Implication |
+| :--- | :--- | :--- |
+| **Sep 2008** | **Lehman Brothers Collapses** | [span_0](start_span)Credit markets freeze; capital-intensive Western tech assets become "distressed" and available for sovereign acquisition[span_0](end_span). |
+| **Oct 2008** | **AMD "Asset Smart" Spin-off** | [span_1](start_span)[span_2](start_span)Abu Dhabi’s ATIC invests for a 65.8% stake in the new entity (GlobalFoundries), explicitly assuming **$1.2B of AMD's debt**[span_1](end_span)[span_2](end_span). |
+| **Jan 2009** | **CFIUS Approval** | [span_3](start_span)U.S. government green-lights majority foreign sovereign control of a future DoD Trusted Foundry supplier during the Bush-Obama transition vacuum[span_3](end_span). |
+| **Jan 3, 2009** | **Bitcoin Genesis Block** | "Chancellor on brink of second bailout." [span_4](start_span)A cultural marker: total loss of faith in the Western financial system—the same week the UAE takes the fabs[span_4](end_span). |
+
+**Core Thesis**
+The 2008 crisis created a once-in-a-century "Cleared Path." While Western banks were bailed out with taxpayer money, the manufacturing backbone of U.S. military microelectronics was quietly transferred to a Gulf monarchy. [span_5](start_span)[span_6](start_span)No espionage was required—just "Bailout Diplomacy" at the exact moment the West ran out of liquidity[span_5](end_span)[span_6](end_span).
+
+**The Trusted Foundry Paradox**
+[span_7](start_span)GlobalFoundries (majority owned by UAE sovereign wealth via Mubadala) is today the Pentagon’s **most advanced Category 1A Trusted Supplier**[span_7](end_span), despite the structural capture initiated in 2008.
+
+* **[span_8](start_span)The Bait (2008):** Abu Dhabi committed **$6.0B+** in CAPEX (initial investment + future commitments) to secure the asset when U.S. markets were frozen[span_8](end_span).
+* **[span_9](start_span)The Trap (Today):** The U.S. defense supply chain is now structurally dependent on a foreign entity that holds the "ultimate strategic card"—the physical means of production[span_9](end_span).
+
+Phase 0 is not the beginning of cyber theft. [span_10](start_span)It is the moment **sovereign capital** legally purchased the "body" of the U.S. semiconductor industry while the "brains" (design) looked the other way[span_10](end_span).
+
+### Key Figures in the Phase 0 Transfer
+* **[span_11](start_span)Hector Ruiz (CEO, AMD):** Architect of the "Asset Smart" strategy who authorized the spin-off to Abu Dhabi[span_11](end_span).
+* **[span_12](start_span)Khaldoon Al Mubarak (CEO, Mubadala):** The key architect of the UAE's investment strategy; later Chairman of the Executive Affairs Authority of Abu Dhabi[span_12](end_span).
+* **[span_13](start_span)Waleed Al Mokarrab Al Muhairi (COO, Mubadala):** Instrumental in the negotiations for the AMD capture[span_13](end_span).
+* **[span_14](start_span)Tim Geithner (Treasury Secretary / CFIUS Chair):** Oversaw the final approval of the deal during the 2009 transition period[span_14](end_span).
+* **[span_15](start_span)Satoshi Nakamoto:** The pseudonymous author whose 2008 whitepaper served as the cultural counter-signal to the bailout era[span_15](end_span).
 
 ---
 
