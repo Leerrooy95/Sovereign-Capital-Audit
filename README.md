@@ -6,9 +6,9 @@
 ## 1. Executive Summary: The Vendor-State Hypothesis
 The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a **Capital-Driven Asymmetric Alliance**. This repository provides a forensic audit of the structural dependencies between **US Security Architecture**, **Gulf Sovereign Wealth**, and **East Asian Industrial Capacity**.
 
-**The Core Thesis:** The United States has transitioned into a "Vendor-State" model, where it supplies the "Code" (Innovation/AI) and "Security" (Defense Guarantee), but relies on foreign sovereign capital to fund the physical infrastructure (Fabs/Energy) required to maintain it.
+**The Core Thesis:** The United States has transitioned into a "Vendor-State" model. It supplies the **Code** (AI/IP) and **Security** (Defense Guarantees), but relies on foreign sovereign capital to fund the **Physical Infrastructure** (Fabs/Energy) required to maintain it.
 
-> **⚠️ AUDIT WARNING:** This repository replaces previous iterations. Verified forensic data has corrected initial estimates regarding SoftBank's China exposure and Japanese labor statistics. See *Section 3* for details.
+> **⚠️ AUDIT WARNING:** This repository replaces previous iterations. Verified forensic data has corrected initial estimates regarding SoftBank's China exposure and Japanese labor statistics. See *Section 4* for details.
 
 ---
 
@@ -35,7 +35,33 @@ The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a
 
 ---
 
-## 3. Data Remediation & Corrections
+## 3. Key Players & Strategic Nodes
+*The specific entities and individuals executing the Asymmetric Alliance.*
+
+### A. The "Stargate" Architects (Infrastructure)
+* **Elon Musk (xAI / SpaceX):**
+    * **The Deal:** Verified partnership with **Humain** (Saudi State AI) to build a **500MW AI Data Center** in the Kingdom.
+    * **Strategic Role:** Musk provides the "Compute Sovereignty" (xAI) and "Orbital Transport" (SpaceX) that the Gulf craves.
+* **Larry Ellison (Oracle):**
+    * **The Deal:** Oracle is the "AI Landlord" for the alliance, securing a **$300 Billion contract with OpenAI** to build the 4.5GW "Stargate" clusters.
+    * **The Nexus:** Oracle's cloud infrastructure acts as the "Data Embassy" for sovereign Gulf workloads, bridging the gap between US software and Saudi energy.
+
+### B. The "Silicon Right" (Defense & Ideology)
+* **Peter Thiel (Founders Fund / Palantir):**
+    * **The Nexus:** Palantir's strategic partnership with Israel and deep ties to the US security state define the software layer of the alliance.
+    * **The Pivot:** His portfolio company **Anduril Industries** formed a Joint Venture with **EDGE Group (UAE)** to manufacture autonomous drones *inside* Abu Dhabi, verifying the "offshoring of defense production" thesis.
+* **JD Vance (The Political Architect):**
+    * **Policy Role:** The primary advocate for rolling back Biden-era "AI Diffusion Rules," allowing the sale of high-end Nvidia chips to the Gulf in exchange for "Dollar Dominance".
+    * **The Doctrine:** "America First" is operationalized by using Gulf capital to re-industrialize the US defense base.
+
+### C. The Sovereign Brokers (Capital)
+* **Mubadala Investment Co. (UAE):** Holds the "Shield" (GlobalFoundries). Willing to sustain low-margin defense fabs in exchange for security guarantees.
+* **MGX (Abu Dhabi):** The new sovereign vehicle specifically designed for AI deals (Microsoft/G42), distinct from legacy oil wealth.
+* **Public Investment Fund (PIF - Saudi Arabia):** The "Industrial" scaler. Moving beyond passive stakes to owning the physical supply chain (Lucid Motors, MP Materials, Humain AI).
+
+---
+
+## 4. Data Remediation & Corrections
 *Forensic corrections applied to the December 2025 dataset.*
 
 | Metric | Previous Claim (Erroneous) | Verified Reality (Corrected) | Strategic Implication |
@@ -46,7 +72,7 @@ The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a
 
 ---
 
-## 4. Strategic Blind Spots (The "Missing Links")
+## 5. Strategic Blind Spots (The "Missing Links")
 
 ### The Silicon Shield: GlobalFoundries vs. TSMC
 The Alliance relies on a bifurcated chip supply chain.
@@ -61,7 +87,7 @@ The US maintains leverage through the "October 7" Export Controls.
 
 ---
 
-## 5. Repository Structure
+## 6. Repository Structure
 
 * **`/1_Executive_Briefings`**: High-level strategic assessments for policymakers.
 * **`/2_Verified_Intelligence`**:
