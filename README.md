@@ -74,6 +74,18 @@ This repository contains a multi-layer intelligence assessment documenting struc
 * **Tim Geithner (Treasury Secretary / CFIUS Chair):** Oversaw the final approval of the deal during the 2009 transition period.
 * **Satoshi Nakamoto:** The pseudonymous author whose 2008 whitepaper served as the cultural counter-signal to the bailout era.
 
+### Connecting the Dots: From Chips (2008) to AI (Today)
+The "Phase 0" capture was not an isolated event; it built the infrastructure for the current "Asymmetric Alliance." The same sovereign network controls both the hardware (GlobalFoundries) and the software/AI layer (G42).
+
+| Feature | Phase 0: GlobalFoundries (2008) | Phase 3: G42 (Present) |
+| :--- | :--- | :--- |
+| **Asset Class** | **Hardware** (Semiconductor Manufacturing) | **Intelligence** (AI & Cloud Computing) |
+| **Sovereign Owner** | **Mubadala** (Abu Dhabi SWF) | **Tahnoun bin Zayed** (National Security Advisor / Mubadala Chair) |
+| **U.S. Partner** | **AMD / IBM** (Trusted Foundry) | **Microsoft / OpenAI** (Cloud & Models) |
+| **Strategic Risk** | Manufacturing U.S. defense chips while owning fabs in China. | Training U.S. AI models while maintaining deep ties to Huawei. |
+| **The Pattern** | U.S. accepts capital to save a distressed asset (AMD). | U.S. accepts capital to scale a resource-intensive technology (AI). |
+
+
 ---
 
 ## Dataset Overview
