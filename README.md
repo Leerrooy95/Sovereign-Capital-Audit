@@ -3,6 +3,14 @@
 **STATUS:** Verified [December 10, 2025]
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
+---
+
+> **🚨 NEW INTELLIGENCE (v3.1): The Media Firewall**
+> A new forensic module (`The Media Firewall.md`) has been added. It maps the financial conflict of interest between "New Right" influencers (Tucker Carlson, Candace Owens) and their financiers (Omeed Malik, Wilks Bros).
+> **The Finding:** These platforms function as a "Heat Sink," directing populist energy toward foreign policy disputes to distract from the "Great Taking" of domestic assets by the very Prime Brokers who fund them.
+
+---
+
 ## 1. Executive Summary: The Vendor-State Hypothesis
 The traditional "Westphalian" alliance model (NATO, G7) has been superseded by a **Capital-Driven Asymmetric Alliance**. This repository provides a forensic audit of the structural dependencies between **US Security Architecture**, **Gulf Sovereign Wealth**, and **East Asian Industrial Capacity**.
 
