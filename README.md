@@ -1,6 +1,6 @@
 # Sovereign-Capital-Audit
 ### 🛑 CLASSIFICATION: Open Source Intelligence (OSINT) / Strategic Assessment
-**STATUS:** Verified [December 10,n2025]
+**STATUS:** Verified [December 10, 2025]
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
 ## 1. Executive Summary: The Vendor-State Hypothesis
