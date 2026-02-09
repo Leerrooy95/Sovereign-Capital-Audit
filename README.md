@@ -1,7 +1,7 @@
 # Sovereign Capital Audit
 
 **CLASSIFICATION:** Open Source Intelligence (OSINT) · Strategic Assessment
-**STATUS:** Verified · Last Updated July 2025
+**STATUS:** Verified · Last Updated February 2026
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
 ---
@@ -256,9 +256,14 @@ The US maintains strategic leverage through the October 7 export-control framewo
 
 This audit is part of a broader OSINT research program examining the intersection of sovereign capital, defense architecture, and technology governance. Related projects:
 
-* **The Regulated Friction Project** — Analysis of regulatory architecture as a strategic instrument in technology competition.
-* **CONTRIBUTING.md** — See [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidelines and verification standards.
-* **CHANGELOG.md** — See [`CHANGELOG.md`](CHANGELOG.md) for version history and data corrections.
+| Repository | Focus |
+|------------|-------|
+| [**The Regulated Friction Project**](https://github.com/Leerrooy95/The_Regulated_Friction_Project) | Temporal correlations between friction events, policy shifts, and capital flows |
+| [**Project Chrysanthemum**](https://github.com/Leerrooy95/Project-Chrysanthemum_Japan-China-AI) | Japan–China AI convergence and sovereign capital exposure |
+| [**DOGE Global Effects**](https://github.com/Leerrooy95/DOGE_Global_Effects) | Aid cuts and global instability mapping |
+| [**Global Layers of Control**](https://github.com/Leerrooy95/Global-Layers-of-Control) | Part III of the Asymmetric State project |
+
+See also: [`CONTRIBUTING.md`](CONTRIBUTING.md) for contribution guidelines · [`CHANGELOG.md`](CHANGELOG.md) for version history
 
 ---
 
@@ -272,4 +277,4 @@ For methodology and sourcing standards, see [`METHODOLOGY.md`](METHODOLOGY.md).
 
 ---
 
-*Last updated: July 2025*
+*Last updated: February 2026*
