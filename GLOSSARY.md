@@ -125,3 +125,7 @@ This glossary defines key terms, acronyms, and concepts used throughout this res
 | **$XB** | Dollar amount in billions |
 | **~X** | Approximate value |
 | **n=X** | Sample size |
+
+---
+
+*Last Updated: February 2026*

@@ -115,4 +115,8 @@ All contributions must adhere to the evidentiary standards in METHODOLOGY.md:
 
 ## Acknowledgment
 
-Significant contributors will be acknowledged in the repository. Contributions remain subject to the MIT License.
+Significant contributors will be acknowledged in the repository. All contributions remain subject to the MIT License.
+
+---
+
+*Last Updated: February 2026*
