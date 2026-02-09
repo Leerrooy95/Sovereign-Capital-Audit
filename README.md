@@ -4,7 +4,7 @@
 **STATUS:** Verified · Last Updated February 2026
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
-**Related Repo:**  (The_Regulated_Friction_Project)[https://github.com/Leerrooy95/The_Regulated_Friction_Project]
+**Related Repo:**  [The_Regulated_Friction_Project](https://github.com/Leerrooy95/The_Regulated_Friction_Project)
 ---
 
 ## Table of Contents
