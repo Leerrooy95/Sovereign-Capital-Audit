@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [3.2] - 2026-02-01
+
+### Changed
+- Professional language cleanup across all documentation files
+- Updated and verified key figures: GlobalFoundries ~81% Mubadala ownership, Stargate ~$500B, SoftBank Alibaba exit confirmed complete, TSMC Arizona operational, Anduril $30.5B valuation
+- Added Connected Repositories section to README
+- Added Table of Contents to README
+- Cross-referenced with The_Regulated_Friction_Project
+
+---
+
 ## [3.0] - 2025-12-07
 
 ### Added
@@ -81,3 +92,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 **Maintained by:** Austin (19D Veteran / OSINT Researcher)  
 **Repository:** [GitHub Link]
+
+---
+
+*Last Updated: February 2026*

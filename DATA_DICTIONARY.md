@@ -195,3 +195,7 @@ washtimes = thiel_coverage[thiel_coverage['Outlet'] == 'Washington Times']
 | v3 | December 2025 | Added international layer (Japan, SoftBank, China surge data) |
 | v2 | November 2025 | Integrated narrative divergence analysis |
 | v1 | October 2025 | Initial dataset with core entity timelines |
+
+---
+
+*Last Updated: February 2026*

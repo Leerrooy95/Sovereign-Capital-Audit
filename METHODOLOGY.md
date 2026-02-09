@@ -193,3 +193,7 @@ All analyses can be reproduced by:
 3. Following the source hierarchy for verification
 
 No proprietary tools or non-public data are required to verify findings.
+
+---
+
+*Last Updated: February 2026*
