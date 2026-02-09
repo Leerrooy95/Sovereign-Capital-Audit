@@ -3,6 +3,7 @@
 **STATUS:** Verified [December 10, 2025]
 **SCOPE:** US Defense Supply Chain & Sovereign Wealth Interdependencies
 
+**Related Repo:**  https://github.com/Leerrooy95/The_Regulated_Friction_Project 
 ---
 
 > **🚨 NEW INTELLIGENCE (v3.1): The Media Firewall**
